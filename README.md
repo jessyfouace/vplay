@@ -1,6 +1,6 @@
-# Project Name
+# V.Play
 
-Project to create a real estate site for certification Yes We Web Level 3 Web developer, I use PHP / HTML / CSS / JS / jQuery / jQuery UI
+V.Play is a personal project for learn more about my logic and fonctionability on php/js
 
 ## Contributing
 
